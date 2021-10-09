@@ -1,4 +1,4 @@
 # web_test
 
 Testing some html for web use
-link to page is machinehistories.github.io/web_test
+link to page is https:\\machinehistories.github.io/web_test
